@@ -1,0 +1,1 @@
+Barebones WIP Discord CLI client. `index.js` has an example usage
